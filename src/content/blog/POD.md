@@ -1,10 +1,10 @@
 ---
-title: "🌱 What Is a Pod in Kubernetes (K8s)?"
-description: "Understand Kubernetes Pods as the smallest deployable unit, how they group containers, how they work under the hood, and when to use main, init, and sidecar containers."
-pubDate: 'Aug 12 2025'
+title: "Understanding Kubernetes Pods: The Foundation of K8s Architecture"
+description: "Deep dive into Kubernetes Pods as the smallest deployable unit. Learn how Pods group containers, work under the hood, and when to use main, init, and sidecar containers in production."
+pubDate: '2025-01-14'
 heroImage: '../../assets/images/example-blog-hero1.jpg'
 category: 'DevOps'
-tags: ['kubernetes', 'pods', 'containers', 'devops']
+tags: ['kubernetes', 'k8s', 'pods', 'containers', 'devops']
 ---
 
 Think of Kubernetes as a big automated system that runs your applications across many machines.

@@ -1,10 +1,10 @@
 ---
-title: 'Docker'
-description: 'Understand what Docker is, core concepts like images, containers, networking, volumes, and Docker Compose.'
-pubDate: 'Aug 14 2025'
-heroImage: '../../assets/images/example-blog-hero2.jpg'
-category: 'Showcase'
-tags: ['astro', 'ui']
+title: 'Docker Fundamentals: Containerization for DevOps Engineers'
+description: 'Master Docker essentials: images, containers, networking, volumes, and Docker Compose. Learn how containerization revolutionizes application deployment and infrastructure management.'
+pubDate: '2025-01-15'
+heroImage: '../../assets/images/example-blog-hero100.jpg'
+category: 'DevOps'
+tags: ['docker', 'containers', 'devops', 'infrastructure']
 ---
 
 Docker is a **containerization platform**.
