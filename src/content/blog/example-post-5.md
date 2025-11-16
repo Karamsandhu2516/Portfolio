@@ -1,10 +1,9 @@
 ---
-title: 'K8S Cluster 🧠 What Is Kubernetes (K8s)? – Simple Explanation'
-description: 'Learn what a Kubernetes cluster is, how the control plane and worker nodes work together, and how K8s automates container deployment, scaling, and self-healing.'
-pubDate: 'Aug 13 2025'
-heroImage: '../../assets/images/example-blog-hero5.jpg'
+title: 'Kubernetes Architecture Deep Dive: Control Plane and Worker Nodes Explained'
+description: 'Master Kubernetes cluster architecture. Understand how the control plane and worker nodes work together to automate container deployment, scaling, and self-healing in production environments.'
+pubDate: '2025-01-13'
 category: 'DevOps'
-tags: ['kubernetes', 'k8s', 'containers', 'devops']
+tags: ['kubernetes', 'k8s', 'architecture', 'containers', 'devops']
 ---
 
 ## 🧠 What Is Kubernetes (K8s)? – Simple Explanation
