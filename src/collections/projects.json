@@ -11,13 +11,13 @@
         "order": 1
     },
     {
-        "id": "saas-api-starter",
-        "title": "SaaS API Starter (Auth, Billing, RBAC)",
-        "techStack": "Node.js • TypeScript • PostgreSQL • Supabase • Stripe",
-        "description": "Production‑ready REST/GraphQL API with JWT auth, role‑based access, Stripe subscriptions, and rate‑limited endpoints.",
+        "id": "chattingo-app",
+        "title": "Chattingo App",
+        "techStack": "spring boot • React • docker • jenkins",
+        "description": "A full-stack real-time chat application built with React, Spring Boot, and WebSocket technology. Your mission: Containerize this application using Docker and deploy it to Hostinger VPS using Jenkins CI/CD pipeline",
         "ctaText": "Get Source < / >",
-        "ctaLink": "#",
-        "iconName": "SupabaseIcon",
+        "ctaLink": "https://github.com/Karamsandhu2516/chattingo-app.git",
+        "iconName": "dockerIcon",
         "published": true,
         "order": 2
     },
