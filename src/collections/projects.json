@@ -1,15 +1,5 @@
 [
-    {
-        "id": "workflow-automation",
-        "title": "Workflow Automation Orchestrator (n8n)",
-        "techStack": "n8n • Node.js • TypeScript • PostgreSQL",
-        "description": "Event‑driven workflows for data sync, notifications, and back‑office automation. Custom nodes, secrets management, retries, and metrics.",
-        "ctaText": "View Repo →",
-        "ctaLink": "#",
-        "iconName": "N8nIcon",
-        "published": true,
-        "order": 1
-    },
+    
     {
         "id": "chattingo-app",
         "title": "Chattingo App",
@@ -21,48 +11,17 @@
         "published": true,
         "order": 2
     },
+
     {
-        "id": "chat",
-        "title": "Chat",
-        "techStack": "Phoenix • WebSockets • Redis • Docker",
-        "description": "Low‑latency chat with channels, presence, and backpressure handling. Includes load tests and horizontal scaling notes.",
-        "ctaText": "Live Demo →",
-        "ctaLink": "#",
-        "iconName": "PhoenixIcon",
+        "id": "Flask App",
+        "title": "FlaskApp",
+        "techStack": "spring boot • React • docker • jenkins",
+        "description": "A full-stack real-time chat application built with React, Spring Boot, and WebSocket technology. Your mission: Containerize this application using Docker and deploy it to Hostinger VPS using Jenkins CI/CD pipeline",
+        "ctaText": "Get Source < / >",
+        "ctaLink": "https://github.com/Karamsandhu2516/two-tier-flask-app.git",
+        "iconName": "dockerIcon",
         "published": true,
-        "order": 3
-    },
-    {
-        "id": "product-analytics",
-        "title": "Product Analytics Pipeline",
-        "techStack": "Node.js • PostHog • PostgreSQL • ClickHouse",
-        "description": "Event ingestion, batching, and replay; user properties and cohorts; dashboards for funnels, retention, and feature adoption.",
-        "ctaText": "Read Case Study →",
-        "ctaLink": "#",
-        "iconName": "PosthogIcon",
-        "published": true,
-        "order": 4
-    },
-    {
-        "id": "data-etl",
-        "title": "Data Ingestion & ETL",
-        "techStack": "Python • Airflow • PostgreSQL • S3",
-        "description": "Scheduled extract/transform/load with schema migrations, data quality checks, and partitioned tables for analytics.",
-        "ctaText": "View Repo →",
-        "ctaLink": "#",
-        "iconName": "PythonIcon",
-        "published": true,
-        "order": 5
-    },
-    {
-        "id": "design-system",
-        "title": "Design System",
-        "techStack": "React • TypeScript • Tailwind CSS • Storybook",
-        "description": "Accessible UI kit with tokens, theming, and testing. Published as a versioned package with changelogs and docs.",
-        "ctaText": "Docs →",
-        "ctaLink": "#",
-        "iconName": "TailwindIcon",
-        "published": true,
-        "order": 6
+        "order": 2
     }
+
 ]
