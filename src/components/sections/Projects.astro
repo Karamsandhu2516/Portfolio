@@ -1,12 +1,14 @@
 ---
 import Button from "../ui/button/Button.astro";
-import { projects } from "../../data/projects";
+import { getProjects } from "../../data/projects";
 
 interface Props {
   title?: string;
 }
 
 const { title } = Astro.props as Props;
+// Load projects fresh on each render to support hot-reload in dev
+const projects = getProjects();
 ---
 
 <section class="w-full py-10">
