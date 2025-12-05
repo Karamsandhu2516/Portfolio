@@ -1,8 +1,8 @@
 ---
 title: 'GitHub Actions for DevOps: Modern CI/CD in the Cloud'
 description: 'Master GitHub Actions for automated CI/CD pipelines. Learn workflows, secrets management, matrix builds, deployment strategies, and integration with Kubernetes and cloud providers.'
-pubDate: '2025-01-18'
-heroImage: '../../assets/images/example-blog-hero7.jpg'
+pubDate: '2025-12-04'
+heroImage: '../../assets/images/github-actions-hero.png'
 category: 'DevOps'
 tags: ['github-actions', 'cicd', 'automation', 'devops', 'github']
 ---

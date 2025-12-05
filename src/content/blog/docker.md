@@ -1,8 +1,8 @@
 ---
 title: 'Docker Fundamentals: Containerization for DevOps Engineers'
 description: 'Master Docker essentials: images, containers, networking, volumes, and Docker Compose. Learn how containerization revolutionizes application deployment and infrastructure management.'
-pubDate: '2025-01-15'
-heroImage: '../../assets/images/example-blog-hero100.jpg'
+pubDate: '2025-12-03'
+heroImage: '../../assets/images/docker-hero.png'
 category: 'DevOps'
 tags: ['docker', 'containers', 'devops', 'infrastructure']
 ---

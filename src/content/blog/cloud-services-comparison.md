@@ -1,8 +1,8 @@
 ---
 title: 'AWS vs Azure vs GCP: Cloud Services Comparison for DevOps Engineers'
 description: 'Compare AWS, Azure, and GCP from a DevOps perspective. Learn compute, storage, networking, and CI/CD differences to make informed cloud architecture decisions.'
-pubDate: '2025-01-19'
-heroImage: '../../assets/images/example-blog-hero6.jpg'
+pubDate: '2025-12-05'
+heroImage: '../../assets/images/aws-cloud-hero.png'
 category: 'DevOps'
 tags: ['aws', 'azure', 'gcp', 'cloud', 'devops', 'comparison']
 ---
