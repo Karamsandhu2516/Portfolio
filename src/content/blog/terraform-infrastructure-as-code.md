@@ -1,8 +1,8 @@
 ---
 title: 'Terraform for DevOps: Infrastructure as Code Best Practices'
 description: 'Learn how to use Terraform to manage cloud infrastructure efficiently. Master state management, modules, workspaces, and production-ready patterns for AWS, Azure, and GCP.'
-pubDate: '2025-01-16'
-heroImage: '../../assets/images/example-blog-hero3.jpg'
+pubDate: '2025-11-30'
+heroImage: '../../assets/images/terraform-hero.png'
 category: 'DevOps'
 tags: ['terraform', 'iac', 'infrastructure', 'devops', 'cloud']
 ---

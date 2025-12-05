@@ -1,8 +1,8 @@
 ---
 title: 'Jenkins CI/CD Pipelines: Building Robust DevOps Automation'
 description: 'Master Jenkins for continuous integration and deployment. Learn pipeline-as-code, Docker integration, multi-branch pipelines, and production-ready CI/CD patterns.'
-pubDate: '2025-01-17'
-heroImage: '../../assets/images/example-blog-hero4.jpg'
+pubDate: '2025-12-02'
+heroImage: '../../assets/images/jenkins-hero.png'
 category: 'DevOps'
 tags: ['jenkins', 'cicd', 'automation', 'devops', 'pipelines']
 ---
