@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Components and Functions:"
 description: "Kubernetes is a open source platform design to scale, automate and manage containerized applicayions. Two manin components of K8S : Control plane (Master Node) and worker Node. Everything in kubernetes is a manifest file."
+pubDate: '2025-12-05'
 heroImage: '../../assets/images/example-blog-hero1.jpg'
 category: 'DevOps'
 tags: ['kubernetes', 'k8s', 'pods', 'containers', 'devops']
