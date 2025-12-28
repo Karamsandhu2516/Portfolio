@@ -8,7 +8,7 @@ tags: ['kubernetes', 'k8s', 'pods', 'containers', 'devops']
 ---
 ## description: "Control Plane Components and Functions:"
 
-**APT Server:**
+**1️⃣APT Server:**
 API server is responsible for all comunnication within the clusterAPI server is the central management unit or entry point of K8S cluster. All requests must go through APT server
 
 **Function:**
