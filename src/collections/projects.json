@@ -1,27 +1,24 @@
 [
-    
+    {
+        "id": "java-quotes-app",
+        "title": "Java Quotes App (K8S Resilient)",
+        "techStack": "Java • Docker • Kubernetes • K8S Probes",
+        "description": "A production-ready cloud-native application featuring self-healing capabilities through Liveness and Readiness probes. Optimized for minimal footprint with resilient orchestration.",
+        "ctaText": "View on GitHub →",
+        "ctaLink": "https://github.com/Karamsandhu2516/java-quotes-app",
+        "iconName": "KubernetesIcon",
+        "published": true,
+        "order": 1
+    },
     {
         "id": "chattingo-app",
         "title": "Chattingo App",
         "techStack": "spring boot • React • docker • jenkins",
-        "description": "A full-stack real-time chat application built with React, Spring Boot, and WebSocket technology. Your mission: Containerize this application using Docker and deploy it to Hostinger VPS using Jenkins CI/CD pipeline",
-        "ctaText": "Get Source < / >",
+        "description": "A full-stack real-time chat application built with React, Spring Boot, and WebSocket technology. Containerized using Docker and deployed via a Jenkins CI/CD pipeline.",
+        "ctaText": "View Repo →",
         "ctaLink": "https://github.com/Karamsandhu2516/chattingo-app.git",
         "iconName": "dockerIcon",
         "published": true,
         "order": 2
-    },
-
-    {
-        "id": "Flask App",
-        "title": "FlaskApp",
-        "techStack": "spring boot • React • docker • jenkins",
-        "description": "A full-stack real-time chat application built with React, Spring Boot, and WebSocket technology. Your mission: Containerize this application using Docker and deploy it to Hostinger VPS using Jenkins CI/CD pipeline",
-        "ctaText": "Get Source < / >",
-        "ctaLink": "https://github.com/Karamsandhu2516/two-tier-flask-app.git",
-        "iconName": "dockerIcon",
-        "published": true,
-        "order": 2
     }
-
 ]
