@@ -14,11 +14,22 @@
         "id": "chattingo-app",
         "title": "Chattingo App",
         "techStack": "spring boot • React • docker • jenkins",
-        "description": "A full-stack real-time chat application built with React, Spring Boot, and WebSocket technology. Containerized using Docker and deployed via a Jenkins CI/CD pipeline.",
-        "ctaText": "View Repo →",
+        "description": "A full-stack real-time chat application built with React, Spring Boot, and WebSocket technology. Your mission: Containerize this application using Docker and deploy it to Hostinger VPS using Jenkins CI/CD pipeline",
+        "ctaText": "Get Source < / >",
         "ctaLink": "https://github.com/Karamsandhu2516/chattingo-app.git",
         "iconName": "dockerIcon",
         "published": true,
         "order": 2
+    },
+    {
+        "id": "Flask App",
+        "title": "FlaskApp",
+        "techStack": "spring boot • React • docker • jenkins",
+        "description": "A full-stack real-time chat application built with React, Spring Boot, and WebSocket technology. Your mission: Containerize this application using Docker and deploy it to Hostinger VPS using Jenkins CI/CD pipeline",
+        "ctaText": "Get Source < / >",
+        "ctaLink": "https://github.com/Karamsandhu2516/two-tier-flask-app.git",
+        "iconName": "dockerIcon",
+        "published": true,
+        "order": 3
     }
 ]
