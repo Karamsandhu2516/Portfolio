@@ -23,7 +23,7 @@
     },
     {
         "id": "Flask App",
-        "title": "Two-Tier Flask App",
+        "title": "FlaskApp",
         "techStack": "Python • Flask • MySQL • Docker • Kubernetes",
         "description": "A two-tier web application built with Python/Flask and MySQL database. Your mission: Containerize this application using Docker and deploy it to Hostinger VPS using Jenkins CI/CD pipeline",
         "ctaText": "Get Source < / >",
