@@ -31,5 +31,16 @@
         "iconName": "PythonIcon",
         "published": true,
         "order": 3
+    },
+    {
+        "id": "easyshop-app",
+        "title": "EasyShop - E-commerce Platform",
+        "techStack": "Next.js • MongoDB • Redux • Docker • Prometheus • Grafana",
+        "description": "A production-grade full-stack shopping platform with real-time cart management and JWT authentication. Tackled complex monitoring challenges by debugging three layers of Prometheus/Grafana configuration issues—transforming 'No Data' dashboards into actionable metrics for system observability.",
+        "ctaText": "View Project →",
+        "ctaLink": "https://github.com/Karamsandhu2516/easyshop--app",
+        "iconName": "dockerIcon",
+        "published": true,
+        "order": 4
     }
 ]
